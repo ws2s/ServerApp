@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 
-namespace FruitWebApp.Models;
+namespace ServerApp.Models;
 
 public class FruitModel
 {

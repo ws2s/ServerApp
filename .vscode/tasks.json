@@ -34,7 +34,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/FruitWebApp.csproj",
+                "${workspaceFolder}/ServerApp.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -60,7 +60,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/FruitWebApp.csproj"
+                "${workspaceFolder}/ServerApp.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

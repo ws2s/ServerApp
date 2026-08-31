@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Components;
-using FruitWebApp.Models;
+using ServerApp.Models;
 using System.Text.Json;
 using Microsoft.AspNetCore.Components.Web;
 
-namespace FruitWebApp.Components.Pages;
+namespace ServerApp.Components.Pages;
 
 public partial class Home : ComponentBase
 {

@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
-using FruitWebApp.Models;
+using ServerApp.Models;
 using System.Text.Json;
 using System.Text;
 using System;
 
-namespace FruitWebApp.Components.Pages;
+namespace ServerApp.Components.Pages;
 
 public partial class Delete : ComponentBase
 {

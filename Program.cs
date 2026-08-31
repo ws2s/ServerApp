@@ -1,4 +1,4 @@
-using FruitWebApp.Components;
+using ServerApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
