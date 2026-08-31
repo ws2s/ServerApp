@@ -9,7 +9,7 @@ builder.Services.AddRazorComponents()
 // Add IHttpClientFactory to the container and set the name of the factory to "FruitAPI".
 builder.Services.AddHttpClient("FruitAPI", httpClient =>
 {
-    httpClient.BaseAddress = new Uri("https://opulent-broccoli-w9q6p9vvw9qcgvxx-5050.app.github.dev");
+    httpClient.BaseAddress = new Uri("https://serverapi-dze9cff5d3djfrdq.eastus-01.azurewebsites.net");
 });
 
 
